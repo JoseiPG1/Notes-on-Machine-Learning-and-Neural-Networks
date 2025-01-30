@@ -5,6 +5,10 @@ from various courses from schools of machine learning with applications to a wid
 variaty of topics in physics from particle to physics to cosmology and online courses
 from different academies.
 
-Current topics covered
+Lecture notes from different schools
+- [X] The School of Machine Learning in Physics, Physics without frontiers Chile.
+
+Current topics covered in the lecture notes
 - [X] Linear regression
 - [X] Logistic regression
+- [X] K nearest neighbours 
