@@ -11,4 +11,5 @@ Lecture notes from different schools
 Current topics covered in the lecture notes
 - [X] Linear regression
 - [X] Logistic regression
-- [X] K nearest neighbours 
+- [X] K nearest neighbours
+- [X] Decision trees and random forest
