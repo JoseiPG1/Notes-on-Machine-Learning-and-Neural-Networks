@@ -8,9 +8,10 @@ from different academies.
 Lecture notes from different schools
 - [X] The School of Machine Learning in Physics, Physics without frontiers Chile - 2025.
 
-Current topics covered in the lecture notes
-- [X] Linear regression
-- [X] Logistic regression
-- [X] K nearest neighbours
-- [X] Decision trees and random forest
-- [X] Support vector machine (SVC)
+Current topics covered in the lecture notes:
+- [X] Linear regression.
+- [X] Logistic regression.
+- [X] K nearest neighbours.
+- [X] Decision trees and random forest.
+- [X] Support vector machine (SVC).
+- [X] K means clustering.
