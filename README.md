@@ -13,3 +13,4 @@ Current topics covered in the lecture notes
 - [X] Logistic regression
 - [X] K nearest neighbours
 - [X] Decision trees and random forest
+- [X] Support vector machine (SVC)
