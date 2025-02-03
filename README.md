@@ -8,10 +8,15 @@ from different academies.
 Lecture notes from different schools
 - [X] The School of Machine Learning in Physics, Physics without frontiers Chile - 2025.
 
-Current topics covered in the lecture notes:
+Current topics covered in the lecture notes are divided into three major categories,
+machine learning, deep learning and natural language processing. Notes of machine learning 
+are:
 - [X] Linear regression.
 - [X] Logistic regression.
 - [X] K nearest neighbours.
 - [X] Decision trees and random forest.
 - [X] Support vector machine (SVC).
 - [X] K means clustering.
+
+Notes of deep learning:
+- [X] Tensorflow keras code project 1.
