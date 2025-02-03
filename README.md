@@ -19,4 +19,4 @@ are:
 - [X] K means clustering.
 
 Notes of deep learning:
-- [X] Tensorflow keras code project 1.
+- [X] Tensorflow keras code project 1, simple regression.
